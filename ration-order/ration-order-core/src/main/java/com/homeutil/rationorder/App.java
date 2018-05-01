@@ -1,4 +1,4 @@
-package com.homeutil.ration_order_core;
+package com.homeutil.rationorder;
 
 /**
  * Hello world!
